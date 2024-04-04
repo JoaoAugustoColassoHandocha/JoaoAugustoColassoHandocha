@@ -39,4 +39,4 @@ Redes sociais para contato:
 
 ##
 
-![snake gif](https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/main/github-contribution-grid-snake.svg)
