@@ -22,7 +22,7 @@ Linguagens que utilizo:
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg">
 </div>
 
 ##
