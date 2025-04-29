@@ -11,12 +11,13 @@
 My stats on GitHub:
   
 <p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoAugustoColassoHandocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAugustoColassoHandocha&layout=compact&langs_count=16&theme=dark"/><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoAugustoColassoHandocha&theme=dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAugustoColassoHandocha&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=dark"><br>
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAugustoColassoHandocha&theme=dark"><br>
   <a href="https://github.com/JoaoAugustoColassoHandocha"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAugustoColassoHandocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAugustoColassoHandocha&layout=compact&langs_count=16&theme=dark"/>
+  <img height="237em" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoAugustoColassoHandocha&bg_color=dark&color=708090&line=4682B4&point=FF4500&area=true&hide_border=false">
 </p>
   
 ##
