@@ -1,4 +1,3 @@
-
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1E90FF&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontAlignY=35&fontColor=DCDCDC&animation=fadeIn">
 
 ##
