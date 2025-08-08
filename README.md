@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=%e812240&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=20&color:F7F7F7&pause=1000&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
 
 <p align="center">  
   <img align="center" src="https://camo.githubusercontent.com/26ba842ab49673b9963907b7cdaf1c631742c0902e56a879b1ed443202471a8c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313133383262663034653565373064373737656263376332653938386461643032303837376332356266267269643d67697068792e6769662663743d67" />
