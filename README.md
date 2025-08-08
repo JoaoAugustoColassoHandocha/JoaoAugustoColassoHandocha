@@ -12,7 +12,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
   
 <p align="center">
   <img height="149em" src="https://github-readme-stats.vercel.app/api?username=JoaoAugustoColassoHandocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
 </p>
   
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Languages+I+use:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Languages+I+use:)](https://git.io/typing-svg)
   
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +38,7 @@
   
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Social+networks+for+contact:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Social+networks+for+contact:)](https://git.io/typing-svg)
   
 <div align="center">
   
@@ -51,7 +51,6 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Other+projects+are+in+the+works,+feel+free+to+follow+me+to+discover+them.)](https://git.io/typing-svg)
-Other projects are in the works, feel free to follow me to discover them.
 
 <br>
 
