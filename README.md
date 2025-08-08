@@ -4,15 +4,15 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
 
 <p align="center">  
   <img align="center" width="300" src="https://camo.githubusercontent.com/26ba842ab49673b9963907b7cdaf1c631742c0902e56a879b1ed443202471a8c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313133383262663034653565373064373737656263376332653938386461643032303837376332356266267269643d67697068792e6769662663743d67" />
 </p>
   
 ##
-  
-My stats on GitHub:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
   
 <p align="center">
   <img height="149em" src="https://github-readme-stats.vercel.app/api?username=JoaoAugustoColassoHandocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,23 +25,22 @@ My stats on GitHub:
 </p>
   
 ##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Languages+I+use:)](https://git.io/typing-svg)
   
-Languages ​​I use:
-  
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg">
+<div style="display: inline_block" align="center">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SQLite" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg">
 </div>
   
 ##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Social+networks+for+contact:)](https://git.io/typing-svg)
   
-Social networks for contact:
-  
-<div>
+<div align="center">
   
   <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-colasso-handocha-2aa558155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoaugustocolassohandocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,6 +50,7 @@ Social networks for contact:
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Other+projects+are+in+the+works,+feel+free+to+follow+me+to+discover+them.)](https://git.io/typing-svg)
 Other projects are in the works, feel free to follow me to discover them.
 
 <br>
