@@ -21,7 +21,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=tokyonight"><br>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAugustoColassoHandocha&theme=tokyonight"><br>
   <a href="https://github.com/JoaoAugustoColassoHandocha"/>
-  <img height="237em" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoAugustoColassoHandocha&bg_color=dark&color=708090&line=4682B4&point=FF4500&area=true&hide_border=false">
+  <img height="237em" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoAugustoColassoHandocha&bg_color=tokyonight&color=708090&line=4682B4&point=FF4500&area=true&hide_border=false">
 </p>
   
 ##
