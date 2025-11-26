@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-two-delta-96.vercel.app/api?show_icons=true&username=JoaoAugustoColassoHandocha&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAugustoColassoHandocha&layout=compact&langs_count=16&theme=dark"/><br>
+  <img height="170em" src="https://github-readme-stats-two-delta-96.vercel.app/api/top-langs?username=JoaoAugustoColassoHandocha&layout=compact&langs_count=16&theme=dark"/><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoAugustoColassoHandocha&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=dark"><br>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAugustoColassoHandocha&theme=dark"><br>
