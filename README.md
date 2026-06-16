@@ -51,5 +51,5 @@
 <br>
 
 <p align="center">
-  <img align="center" width="300" src="JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/huskypcwork.gif" />
+  <img align="center" src="JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/huskypcwork.gif" />
 </p>
