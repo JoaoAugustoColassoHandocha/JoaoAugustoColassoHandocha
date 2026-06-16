@@ -48,8 +48,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Other+projects+are+in+the+works,+feel+free+to+follow+me+to+discover+them.)](https://git.io/typing-svg)
 
-<br>
-
 <p align="center">
   <img align="center" src="https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/main/huskypcwork.gif" />
 </p>
