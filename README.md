@@ -51,5 +51,5 @@
 <br>
 
 <p align="center">
-  <img align="center" src="JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/huskypcwork.gif" />
+  <img align="center" src="https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/main/huskypcwork.gif" />
 </p>
