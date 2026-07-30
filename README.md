@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height="178em" src="https://github-readme-stats-two-delta-96.vercel.app/api?show_icons=true&username=JoaoAugustoColassoHandocha&theme=dark"/>
+  <img height="178em" src="https://github-stats-extended.vercel.app/api?show_icons=true&username=JoaoAugustoColassoHandocha&theme=dark"/>
   <img height="178em" src="https://github-readme-stats-two-delta-96.vercel.app/api/top-langs?username=JoaoAugustoColassoHandocha&layout=compact&langs_count=16&theme=dark"/><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoAugustoColassoHandocha&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=dark"><br>
