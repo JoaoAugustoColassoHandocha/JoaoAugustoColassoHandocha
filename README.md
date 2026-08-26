@@ -6,6 +6,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
 
+<br>
+
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph.svg?game=breakout">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  </picture>
+
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
@@ -17,6 +25,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoAugustoColassoHandocha&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoAugustoColassoHandocha&theme=dark"><br>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAugustoColassoHandocha&theme=dark"><br>
+  <img src="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/activity-graph-output/activity-graph.svg?radius=16&theme=github-compact&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=true" height="237" alt="activity-graph graph"/>
   
 </p>
   
@@ -49,5 +58,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=Other+projects+are+in+the+works,+feel+free+to+follow+me+to+discover+them.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img align="center" src="https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/main/huskypcwork.gif" />
+  <img align="center" src="https://github.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/blob/main/huskypcwork.gif"/>
 </p>
