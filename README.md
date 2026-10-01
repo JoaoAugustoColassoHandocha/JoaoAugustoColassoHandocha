@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=print('Hello+World%F0%9F%8C%8E!!!');print('My+name+is+Jo%C3%A3o+Augusto+Colasso+Handocha%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'))](https://git.io/typing-svg)
 
 <br>
-<!--
+
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph.svg?game=breakout">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoAugustoColassoHandocha/JoaoAugustoColassoHandocha/pacman-output/breakout-contribution-graph.svg?game=breakout">
   </picture>
+  
 ##
--->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&width=1000&height=100&center=true&vCenter=true&lines=My+stats+on+GitHub:)](https://git.io/typing-svg)
 
